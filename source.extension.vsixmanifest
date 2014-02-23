@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="181eef7a-4fb4-4b6e-9c1b-90c8a87f3fbf" Version="1.0" Language="en-US" Publisher="Crotz" />
+    <Identity Id="181eef7a-4fb4-4b6e-9c1b-90c8a87f3fbf" Version="1.0" Language="en-US" Publisher="Marc-André Croteau" />
     <DisplayName>Collapse On Open</DisplayName>
     <Description xml:space="preserve">Run "Edit &gt;Collapse To Definition" command on opening ".cs" document
 Run "Toggle All Outlining" command on opening ".xaml" document
