@@ -1,0 +1,21 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="181eef7a-4fb4-4b6e-9c1b-90c8a87f3fbf" Version="1.0" Language="en-US" Publisher="Crotz" />
+    <DisplayName>Collapse On Open</DisplayName>
+    <Description xml:space="preserve">Run "Edit &gt;Collapse To Definition" command on opening ".cs" document
+Run "Toggle All Outlining" command on opening ".xaml" document
+</Description>
+    <Icon>icon.png</Icon>
+    <PreviewImage>icon.png</PreviewImage>
+  </Metadata>
+  <Installation InstalledByMsi="false">
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="11.0" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="4.5" />
+    <Dependency Id="Microsoft.VisualStudio.MPF.11.0" DisplayName="Visual Studio MPF 11.0" Version="11.0" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="CollapseAllOnOpen.pkgdef" />
+  </Assets>
+</PackageManifest>

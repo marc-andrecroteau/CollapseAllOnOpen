@@ -1,0 +1,9 @@
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\CollapseAllOnOpen\1.0\\CollapseAllOnOpen.dll
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\CollapseAllOnOpen\1.0\\CollapseAllOnOpen.pkgdef
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\CollapseAllOnOpen\1.0\\extension.vsixmanifest
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\CollapseAllOnOpen\1.0\\CollapseAllOnOpen.pdb
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\Collapse On Open\1.0\\CollapseAllOnOpen.dll
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\Collapse On Open\1.0\\CollapseAllOnOpen.pkgdef
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\Collapse On Open\1.0\\extension.vsixmanifest
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\Collapse On Open\1.0\\icon.png
+C:\Users\marc-andre\AppData\Local\Microsoft\VisualStudio\11.0Exp\Extensions\Crotz\Collapse On Open\1.0\\CollapseAllOnOpen.pdb

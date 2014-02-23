@@ -1,0 +1,14 @@
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\bin\Debug\CollapseAllOnOpen.dll
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\bin\Debug\CollapseAllOnOpen.pdb
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\bin\Debug\CollapseAllOnOpen.pkgdef
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\bin\Debug\CollapseAllOnOpen.vsix
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\bin\Debug\extension.vsixmanifest
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\obj\Debug\CollapseAllOnOpen.csproj.ResolveComReference.cache
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\obj\Debug\VSPackage.resources
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\obj\Debug\CollapseAllOnOpen.csproj.GenerateResource.Cache
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\obj\Debug\CollapseAllOnOpen.dll
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\obj\Debug\CollapseAllOnOpen.pdb
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\obj\Debug\CollapseAllOnOpen.pkgdef
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\obj\Debug\CollapseAllOnOpen.latest.pkgdef
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\obj\Debug\extension.vsixmanifest
+K:\Documents\Personnel\Programmation\C#\CollapseOnOpen\CollapseAllOnOpen\CollapseAllOnOpen\bin\Debug\icon.png
