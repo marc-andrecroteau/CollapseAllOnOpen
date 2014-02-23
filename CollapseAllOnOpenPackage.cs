@@ -23,7 +23,6 @@ namespace Crotz.CollapseAllOnOpen
 
         #endregion
 
-
         #region Package Members
 
         private SolutionEvents _solutionEvents;

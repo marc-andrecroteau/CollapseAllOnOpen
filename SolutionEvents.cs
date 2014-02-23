@@ -42,10 +42,6 @@ namespace Crotz.CollapseAllOnOpen
             {
                 _applicationObject.ExecuteCommand("Edit.CollapsetoDefinitions");
             }
-            else if (gotFocus.Document.FullName.EndsWith(".xaml") & _docOpened)
-            {
-                _applicationObject.ExecuteCommand("Edit.ToggleAllOutlining");
-            }
 
             _docOpened = false;
         }
